@@ -1,9 +1,9 @@
 # Makima-XD
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-POWERFUL WHATSAPP BOT CREATED BY DEV SUNG
+POWERFUL WHATSAPP BOT CREATED BY SHaSHIKA
 <p align="center">
-  <img src="https://files.catbox.moe/8vq804.jpg" />
+  <img src="https://files.catbox.moe/4kux2y.jpg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
@@ -102,7 +102,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-     - name: Set up Node.js
+    - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
@@ -118,8 +118,8 @@ jobs:
 
 ### Thank You Dear
 
-> DEVELOPER OF MAKIMA-XD 
+> DEVELOPER OF AGNI 
 - [Mr SungSu ](https://github.com/NaCkS-ai)
-- Creater and Owner Of Makima-XD
+- Creater and Owner Of Agni
 
 
